@@ -29,7 +29,7 @@ export default function NavBar() {
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#tickets">View Tickets</a>
+          <a class="nav-link" href="#tickets">Create Event</a>
         </li>
       </ul>
       <form class="d-flex" role="search">

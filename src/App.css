@@ -11,6 +11,7 @@
 .hero-section{
   background-color: aqua;
   width: 100%;
+  padding: 10%;
 }
 
 .hero-text {
