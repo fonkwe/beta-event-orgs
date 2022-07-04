@@ -1,7 +1,7 @@
 import React from 'react'
-import man1 from "../assets/man1.jpg";
-import man2 from "../assets/man2.jpeg";
-import man3 from "../assets/man3.svg";
+import man1 from "./assets/man1.jpg";
+import man2 from "./assets/man2.jpeg";
+import man3 from "./assets/man3.svg";
 
 function About() {
   return (

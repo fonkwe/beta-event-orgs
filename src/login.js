@@ -1,8 +1,8 @@
-import React, {useState} from 'react';
-import './login.css'
+
+import './Login.css'
 
 
-function login() {
+function Login() {
   return (
 
 
@@ -41,4 +41,4 @@ function login() {
   )
 }
 
-export default login
+export default Login
